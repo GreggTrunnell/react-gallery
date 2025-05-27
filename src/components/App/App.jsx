@@ -1,5 +1,5 @@
 import GalleryList from "../GalleryList/GalleryList";
-import '/Users/prime/Documents/Prime/NorthCascades/weekend-react-gallery/src/index.css';
+import '/Users/prime/Documents/Prime/react-gallery/src/index.css';
 
 function App() {
     return (
